@@ -29,6 +29,9 @@ header {
   padding: 20px;
   text-align: center;
 }
+p{
+  font-family: 'Gemunu Libre', sans-serif;
+}
 h1{
 
   font-family: cursive;
